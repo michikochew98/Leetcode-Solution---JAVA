@@ -5,4 +5,4 @@
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/94.%20Binary%20Tree%20Inorder%20Traversal.java) | Easy |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/100.%20Same%20Tree.java) | Easy |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.java) | Medium |
-| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%In%20String.java) | Easy |
+| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy |
