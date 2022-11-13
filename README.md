@@ -10,3 +10,5 @@
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/100.%20Same%20Tree.java) | Easy |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.java) | Medium |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) | Easy |
+| [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1464.s%20Maximums%20Products%20ofs%20Twos%20Elementss%20ins%20ans%20Array.java) | Easy |
+
