@@ -1,7 +1,7 @@
 
 | Question | Solution | Difficulty |
 |:---------|:--------:|:-----------|
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1.%Two%Sum.java) | Easy |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/1.%20Two%20Sum.java) | Easy |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java) | Medium |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/22.%20Generate%20Parentheses.java) | Medium |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) | Easy |
