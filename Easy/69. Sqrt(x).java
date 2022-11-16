@@ -20,7 +20,9 @@ class Solution {
         
         while(start < end) {
             int mid = start + (end - start + 1) / 2;
-            if(mid > x / mid) end = mid - 1;
+            if (mid <= x / mid && (mid + 1) > x / (mid + 1))// check overflow
+			    return mid; 
+            else if(mid > x / mid) end = mid - 1;
             else start = mid;
         }
         
