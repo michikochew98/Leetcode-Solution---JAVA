@@ -7,6 +7,7 @@
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/7.%20Reverse%20Integer.java) | Medium |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java) | Medium |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/22.%20Generate%20Parentheses.java) | Medium |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) | Medium |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) | Easy |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Medium/46.%20Permutations.java) | Medium |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/michikochew98/Leetcode-Solution---JAVA/blob/main/Easy/69.%20Sqrt(x).java) | Easy |
